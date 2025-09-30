@@ -1,7 +1,6 @@
 # Simple Calculator
 
 A basic calculator web app built with **HTML, CSS, and JavaScript**.
-It performs simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## 🚀 Features
 
