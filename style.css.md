@@ -1,0 +1,84 @@
+### CSS
+```css
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: relative;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    border-color: #f2f2f2;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture.png);
+    background-repeat: repeat;
+    background-size: cover;
+    opacity: 0.4;
+    z-index: -1;
+}
+
+.container {
+    padding: 35px;
+    background-color: #0c101c;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px gray;
+    width: 270px;
+    position: relative;
+    z-index: 1;
+}
+
+input {
+    height: 80px;
+    width: 270px;
+    font-size: 50px;
+    text-align: end;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.Calculator {
+    display: grid;
+    grid-template-columns: repeat(4, 68px);
+    grid-column: span 4;
+}
+
+button {
+    height: 60px;
+    width: 60px;
+    background-color: #16252e;
+    font-size: 1.6em;
+    color: #fff;
+    border-radius: 50px;
+    margin: 8px;
+    cursor: pointer;
+}
+
+button:active {
+    height: 55px;
+    width: 55px;
+    background-color: #fff;
+    color: #000;
+}
+
+.color1 {
+    background-color: orange;
+    color: black;
+}
+
+.color2 {
+    background-color: #f9f9f9;
+    color: black;
+}
