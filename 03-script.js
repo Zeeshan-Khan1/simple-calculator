@@ -1,4 +1,3 @@
-### Javascript
 ```js
 let screen = document.getElementById('screen');
 function display(num) {
