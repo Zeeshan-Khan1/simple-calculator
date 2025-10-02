@@ -18,7 +18,7 @@ calculator/
 │── script.js    # Calculator logic with JavaScript
 ```
 
-## 🖥️ Usage
+## Usage
 
 1. Clone the repository:
 
