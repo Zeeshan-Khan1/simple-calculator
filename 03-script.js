@@ -1,4 +1,3 @@
-
 let screen = document.getElementById('screen');
 function display(num) {
     screen.value += num;
