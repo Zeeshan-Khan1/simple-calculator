@@ -26,6 +26,7 @@ body::before {
     opacity: 0.4;
     z-index: -1;
 }
+
 .container {
     padding: 35px;
     background-color: #0c101c;
