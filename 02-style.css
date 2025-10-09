@@ -33,7 +33,6 @@ body::before {
     position: relative;
     z-index: 1;
 }
-
 input {
     height: 80px;
     width: 270px;
