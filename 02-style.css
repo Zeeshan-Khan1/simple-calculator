@@ -42,7 +42,6 @@ input {
     box-sizing: border-box;
     padding: 10px;
 }
-
 .Calculator {
     display: grid;
     grid-template-columns: repeat(4, 68px);
