@@ -9,7 +9,7 @@ A basic calculator web app built with **HTML, CSS, and JavaScript**.
 * Clear & Reset functionality
 * Easy to use interface
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 calculator/
