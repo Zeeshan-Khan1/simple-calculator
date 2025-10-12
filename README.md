@@ -27,7 +27,7 @@ calculator/
    ```
 2. Open `index.html` in your browser.
 
-## 🔧 Technologies
+## Technologies
 
 * HTML5
 * CSS3
