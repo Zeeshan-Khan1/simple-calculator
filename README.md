@@ -2,7 +2,7 @@
 
 A basic calculator web app built with **HTML, CSS, and JavaScript**.
 
-## 🚀 Features
+## Features
 
 * Responsive design with HTML & CSS
 * Handles basic arithmetic operations
