@@ -2,6 +2,9 @@
 
 A basic calculator web app built with **HTML, CSS, and JavaScript**.
 
+## Deployment Link
+https://simple-calculator9277a2.netlify.app/
+
 ## Features
 
 * Responsive design with HTML & CSS
